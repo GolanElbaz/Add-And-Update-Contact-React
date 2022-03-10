@@ -1,0 +1,16 @@
+#AddContact input[type]:valid{
+    background: white;
+}
+#AddContact input[type]:invalid{
+    background: red;
+}
+#AddContact{
+    background: rgb(179, 153, 153);
+    padding:10px;
+    margin:10px;
+    text-align: center;
+    margin-top: 20px;
+}
+#AddContact input{
+    padding: 5px;
+}
